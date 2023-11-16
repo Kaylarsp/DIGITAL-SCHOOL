@@ -1,5 +1,5 @@
 <?php
-class Mobil 
+class Mobil
 {
   public $roda = 4;
   public function jalan()
